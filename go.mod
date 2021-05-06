@@ -1,4 +1,4 @@
-module github/com/sangx2/golog
+module github.com/sangx2/golog
 
 go 1.16
 
